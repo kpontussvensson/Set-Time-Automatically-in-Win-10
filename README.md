@@ -1,5 +1,5 @@
 
-# Set Time Automatically in Windows 10
+# Set Time Automatically In Windows 10
 How to force Windows 10 time to synch with a time serve?
 
 ![Languages](https://img.shields.io/github/languages/count/kakaa2993/Set-Time-Automatically-in-Win-10?color=%234d41c0)
@@ -17,19 +17,19 @@ How to force Windows 10 time to synch with a time serve?
 
 <br>
 
-## The requirement?
+## The Requirement?
 - This script need only the connection to the internet to work!
 
 <br>
 
-## How to use this script?
+## How To Use This Script?
 - Just run the script ``as administrator``.
 
 and voila! That is all that you need.
 
 <br>
 
-## Can I Use the script automatically?
+## Can I Use The Script Automatically?
 You can make the script run automatically using ``Task Scheduler`` from Windows, here is a video showing you how you can use it [on YouTube](https://youtu.be/RSwOrK4m82U?si=PzW9tNA-4Gh97k0e).
 
 <br>
