@@ -5,7 +5,7 @@ How to force Windows 10 time to synch with a time serve?
 ![Languages](https://img.shields.io/github/languages/count/kakaa2993/Set-Time-Automatically-in-Win-10?color=%234d41c0)
 ![Top Language](https://img.shields.io/github/languages/top/kakaa2993/Set-Time-Automatically-in-Win-10?color=%234d41c0)
 ![Repository Size](https://img.shields.io/github/repo-size/kakaa2993/Set-Time-Automatically-in-Win-10?color=%234d41c0)
-![Made By](https://img.shields.io/badge/made%20by-kakaa-%234d41c0)
+![Made By](https://img.shields.io/badge/made%20by-ZakaryaBelamiri-%234d41c0)
 
 <br>
 
