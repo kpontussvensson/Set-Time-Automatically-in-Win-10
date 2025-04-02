@@ -38,6 +38,11 @@ Or you can also do it with ``cmd``:
 schtasks /create /tn "Name_of_Task" /sc onlogon /ru SYSTEM /rl HIGHEST /tr "C:\path\to\your\batch\sync_time_win.bat"
 ```
 
+### PONTUS EDIT:
+```
+Sätt repeat interval till 1 hour indefinitely
+```
+
 Explanation of the command:
 
 - `/sc onlogon`: the task should run when any user logs on.
